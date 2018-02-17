@@ -16,4 +16,4 @@ To run the flask app type the following into the command line: <br/>
 <br/>
 `python app.py` <br/>
 <br/>
-Copy the local address listed into your browser and use the specified routes to retrieve data.
+Copy the local address listed into your browser to render the html page.
